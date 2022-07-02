@@ -4,3 +4,8 @@ This is the final exam of the subject "PYTHON FOR MACHINE LEARNING, DATA SCIENCE
 - language: Python.
 - Tool: Jupyter Notebook
 ## Describe:
+<img src="image/1.png">
+
+<img src="image/2.png">
+
+<img src="image/3.png">
